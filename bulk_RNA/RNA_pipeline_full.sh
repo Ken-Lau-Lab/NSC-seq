@@ -20,7 +20,7 @@ done
 
 for file in *R2_trimmed.txt
 do
-        Rscript mutation_barcodes_test.R $file
+        Rscript mutation_barcodes.R $file
 done
 
 
