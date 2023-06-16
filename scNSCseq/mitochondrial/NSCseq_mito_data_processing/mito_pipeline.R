@@ -1,15 +1,15 @@
 library(qdapRegex)
 library(readr)
-BC_mito <- read_delim("INUSE_BC_Mito.txt", 
-                      delim = "\t", escape_double = FALSE, 
-                      trim_ws = TRUE)
+library(stringr)
+library(dplyr)
+
+BC_mito <- read.table(file = 'INUSE_BC_Mito_12.txt', header = T, fill = F)
 
 mito_gene = BC_mito$Gene
 
 for (gene in mito_gene){
   BC_mito_filter = BC_mito[BC_mito$Gene==gene,]
-  ## extract all -3 and -6 files
-  filenames = Sys.glob(file.path('output_mito', paste0("*-[3,6]*",gene,"\\.csv")))
+  filenames = Sys.glob(file.path('output_mito2', paste0("*-[1]*",gene,"\\.csv")))
   data <- filenames %>% 
     lapply(read.csv) %>% 
     bind_rows %>% 
@@ -31,29 +31,29 @@ for (gene in mito_gene){
   data<- data[data$Character_Cell_ID>12, ] ##More than 12 bp is untrimmed reads
   
   data_mut<- data[!data$reads %in% BC_mito_filter$BC, ]
-  data_mut$Gene<- BC_mito_filter$Gene
-  data_mut$Cell<- paste0(data_mut$Cell, sep="-", '7995-MMI3')
-  
-  output<- data_mut[, c(3,2,6,7)]
-  ## create a new directory MMI3 to save all output files
-  write_csv(output,paste0("MMI3/",gene,'_7995_MMI3.csv'))
-  
+  if (nrow(data_mut)!=0){
+    data_mut$Gene<- BC_mito_filter$Gene
+    data_mut$Cell<- paste0(data_mut$Cell, sep="-", '7118-MMI1')
+    
+    output<- data_mut[, c(3,2,6,7)]
+    write_csv(output,paste0("MMI2/",gene,'_7118_MMI1.csv'))
+  }
 }
 
 
-filenames = Sys.glob(file.path('MMI3','*.csv'))
+filenames = Sys.glob(file.path('MMI2','*.csv'))
 
-MMI3_Mito <- filenames %>% 
+MMI1_Mito <- filenames %>% 
   lapply(read.csv) %>% 
   bind_rows
 
 
-MMI3_Mito$Unique<- paste0(MMI3_Mito$reads, sep="_", MMI3_Mito$Cell)
+MMI1_Mito$Unique<- paste0(MMI1_Mito$reads, sep="_", MMI1_Mito$Cell)
 
-Unique<- table(MMI3_Mito$Unique)
+Unique<- table(MMI1_Mito$Unique)
 Unique<-as.data.frame(Unique)
-match_mito<- match(MMI3_Mito$Unique, Unique$Var1)
-MMI3_Mito$Freq<- Unique$Freq[match_mito]
-MMI3_Mito<- MMI3_Mito[!duplicated(MMI3_Mito[,5]), ]
+match_mito<- match(MMI1_Mito$Unique, Unique$Var1)
+MMI1_Mito$Freq<- Unique$Freq[match_mito]
+MMI1_Mito<- MMI1_Mito[!duplicated(MMI1_Mito[,5]), ]
 
-write_csv(MMI3_Mito,'MMI3_Mito.csv')
+write_csv(MMI1_Mito,'7118_MMI1_Mito.csv')

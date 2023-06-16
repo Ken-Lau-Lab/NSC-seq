@@ -15,8 +15,8 @@ filename = sys.argv[1]
 mito = sys.argv[2]
 
 # Read text files as dataframes
-R1 = pd.read_table('./Data/'+filename+'_R1.txt', header=None, sep='\n')
-R2 = pd.read_table('./Data/'+filename+'_R2.txt', header=None, sep='\n')
+R1 = pd.read_table('./Data/'+filename+'_R1.txt', header=None)
+R2 = pd.read_table('./Data/'+filename+'_R2.txt', header=None)
 
 # Collapse header and read lines
 R1 = pd.DataFrame(np.reshape(R1.values,(int(R1.shape[0] / 2),2)), columns=['Header', 0])
