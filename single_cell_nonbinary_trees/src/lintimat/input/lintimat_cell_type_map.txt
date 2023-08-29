@@ -1,0 +1,33 @@
+0	Anterior gut endoderm
+1	Branchial arch neural crest
+2	Cardiac mesenchyme
+3	Cardiomyocytes
+4	Cardiopharyngeal progenitors FHF
+5	Cardiopharyngeal progenitors SHF
+6	Caudal neural tube
+7	Endothelium
+8	Erythroid
+9	Erythroid progenitors 1
+10	Erythroid progenitors 2
+11	Erythroid progenitors 3
+12	Fore/midbrain progenitors
+13	Hematopoietic stem and progenitor cells
+14	Hindbrain progenitors
+15	Limb mesoderm
+16	Megakaryocyte progenitors
+17	Mesoderm
+18	Migratory neural crest
+19	Neural progenitors like cells
+20	Neural tube
+21	Notochord
+22	Optic neuronal progenitors
+23	Otic neuronal progenitors
+24	Pharyngeal arch mesoderm
+25	Pharyngeal mesoderm like cells
+26	Posterior gut endoderm
+27	Pre-somitic mesoderm
+28	Sclerotome
+29	Somites
+30	Spial cord
+31	Surface ectoderm
+32	Visceral endoderm

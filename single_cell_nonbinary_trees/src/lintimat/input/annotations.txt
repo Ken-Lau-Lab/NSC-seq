@@ -1,0 +1,845 @@
+Cells	ClusterIdent
+GATCGGTACGAAGGTAAT-7995-1	Erythroid progenitors 3
+ATTCCAGACCAGATTAC-7995-1	Pharyngeal arch mesoderm
+GTCTCTCTCTTACTCC-7938-3	Hematopoietic stem and progenitor cells
+ACTACTTGTAACTTAGC-7995-1	Posterior gut endoderm
+TTGGACTTCCGCAACT-7995-1	Cardiopharyngeal progenitors SHF
+AAGCTATGAGGTGACAC-7995-1	Spial cord
+AAAACGCCTCCGTGTTT-7938-3	Branchial arch neural crest
+CTATAGAGTCCTTATT-7995-1	Spial cord
+GAGATTGCGAAGCTATGA-7995-1	Erythroid progenitors 2
+GACCACATTAGTTGTCAT-7938-3	Fore/midbrain progenitors
+GATTAGACTCGACACC-7995-1	Erythroid progenitors 2
+ACGCTCTCACTACCGTT-7938-3	Limb mesoderm
+GATCCCAATCGAGCCCAT-7938-3	Branchial arch neural crest
+AAATCAGACTCTTGAC-7995-1	Cardiopharyngeal progenitors SHF
+GATGACCCTCTTCCAGAC-7938-3	Anterior gut endoderm
+AACGGTAGCTGGAGGAG-7995-1	Cardiopharyngeal progenitors FHF
+AAAACCTCCGCGTTGCT-7995-1	Neural progenitors like cells
+CGTATTTCGAGGCTGA-7938-3	Pharyngeal arch mesoderm
+AGAAGTCCATACTCTT-7995-1	Hindbrain progenitors
+TGATAACCCGTTCTCAACC-7995-1	Optic neuronal progenitors
+TGACCTGTTATCGTGGATA-7995-1	Spial cord
+TTAAGCGTGTACACTC-7938-3	Cardiopharyngeal progenitors FHF
+AGCACCACAAACTGGT-7995-1	Pharyngeal arch mesoderm
+TGACACTTTCTGAAGTGCC-7938-3	Caudal neural tube
+GGATAAAGGGACTTCC-7995-1	Mesoderm
+GGCCCTTAGGGCCAAT-7938-3	Neural tube
+GACGACTCCTTACAGCCG-7938-3	Erythroid progenitors 1
+TGAATTCGACGGATTAGAC-7938-3	Cardiopharyngeal progenitors SHF
+AGCCAAGATCCACATTA-7995-1	Fore/midbrain progenitors
+GTCTCTCTTGCGACAG-7995-1	Erythroid progenitors 2
+GTTTGTTTAGCACCAC-7938-3	Limb mesoderm
+ACAGATTACTAGTCTAG-7995-1	Optic neuronal progenitors
+AAGACACCACTCAGAAT-7938-3	Fore/midbrain progenitors
+TGAAACAATCCTCATGAGG-7995-1	Hindbrain progenitors
+AGGGCCAATATCCGCTA-7938-3	Erythroid progenitors 1
+CTTTAATCAGAGACTA-7995-1	Migratory neural crest
+TGAGCAAGGACTTCCGCTC-7995-1	Limb mesoderm
+GAAGTTTAGACTTAGGTA-7995-1	Hindbrain progenitors
+GACTTACTCCCGTGGATA-7995-1	Anterior gut endoderm
+GATGAGGTCTGGAGAAGC-7938-3	Limb mesoderm
+AGAACGATTGAGAGTAT-7938-3	Branchial arch neural crest
+ACGGACAACCCCAAGCA-7995-1	Spial cord
+TGAATGAAGCAAATTCCCA-7995-1	Pharyngeal arch mesoderm
+GAATTCCTTGGGTGACAC-7995-1	Migratory neural crest
+TGAGCGCATTCCGTGCTAG-7995-1	Endothelium
+GGTGGGATGACAGATA-7995-1	Branchial arch neural crest
+AAAAGCCTATGATGCCC-7938-3	Pharyngeal arch mesoderm
+ATCCGCTAGCTTTGGC-7995-1	Neural progenitors like cells
+TGATCCCGTAGCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+ATCGGTTCGGAGGCTGA-7938-3	Pre-somitic mesoderm
+GAGACAGATAATCAGCGC-7995-1	Migratory neural crest
+AGGGAACGAGTGTAACC-7938-3	Fore/midbrain progenitors
+GATCGGTACGGCCACATC-7995-1	Optic neuronal progenitors
+AGAAGTCCCGAACGTA-7995-1	Limb mesoderm
+GTCTCTCTGTCCATGT-7938-3	Fore/midbrain progenitors
+GAATGGGCACCTTCTGGA-7995-1	Pharyngeal arch mesoderm
+TGGTATGAAAAGCCTA-7995-1	Otic neuronal progenitors
+TGAAGCGTAGGCCTGTTAT-7995-1	Megakaryocyte progenitors
+AGTCAAAGATCTGTGGT-7938-3	Cardiopharyngeal progenitors SHF
+TGAGGTCTGACCACAGTTT-7995-1	Hindbrain progenitors
+GACCTACTAGCAACGTGG-7995-1	Limb mesoderm
+GATTGGCGTTGTTGCACG-7995-1	Migratory neural crest
+TGAGTACACTCATACCCAG-7938-3	Hindbrain progenitors
+TGCGACAGGGTCACAG-7995-1	Neural progenitors like cells
+GAACACTAAGTACCAGGC-7995-1	Spial cord
+GATCCCAATCAATGACCC-7995-1	Posterior gut endoderm
+GAGAATACGCATTGGGCC-7995-1	Branchial arch neural crest
+AGGGCCAATGGGAACGA-7995-1	Erythroid progenitors 2
+TGAGCGCATTCGGATAAAG-7995-1	Limb mesoderm
+GCAGCATGTACCGGCA-7995-1	Erythroid progenitors 3
+AGAAGTCCTCATCCTT-7995-1	Fore/midbrain progenitors
+ATTGATTCTACCACGCT-7995-1	Fore/midbrain progenitors
+ACTGAGTGCACTAGGAT-7995-1	Pharyngeal arch mesoderm
+AAGAACGGGACTAGGAT-7995-1	Cardiopharyngeal progenitors FHF
+TGATAACCCGTTCGACACC-7995-1	Branchial arch neural crest
+AGTGTCGGACTAGATTG-7995-1	Erythroid
+AAAACGCCTCACAAGGC-7995-1	Sclerotome
+ATATGCATGAGAGTAT-7995-1	Endothelium
+ACCCTAACCTGCGACAG-7938-3	Mesoderm
+AGGTCACAGGGAATAGA-7938-3	Sclerotome
+ATCAGCGCCCATTTGA-7995-1	Spial cord
+TGAACGCTCAGCTTCGATT-7938-3	Sclerotome
+AAAACTCGAATTCCTTG-7995-1	Limb mesoderm
+GAACACTAAGAGAACGGG-7995-1	Limb mesoderm
+AACCCATATATTTCCGG-7938-3	Hindbrain progenitors
+AATACTCTTGTCAATAC-7995-1	Branchial arch neural crest
+AGGGTGTATACCTTCTT-7995-1	Erythroid progenitors 1
+TGACACAACAGCACAGTTT-7995-1	Erythroid
+TGACTACGAGCGCTCTAGT-7938-3	Branchial arch neural crest
+AGTCAAAGAAAACTCGA-7995-1	Cardiac mesenchyme
+TGATGTCTTTCAATCGGGT-7938-3	Pharyngeal arch mesoderm
+GAGCGGTACGCCTTGA-7995-1	Cardiopharyngeal progenitors FHF
+GATGAGGTCTCCCAAGCA-7995-1	Cardiomyocytes
+TGAGGTCTGACGCCTCTTT-7938-3	Fore/midbrain progenitors
+GAGAAAGACCTCTGTGGT-7938-3	Fore/midbrain progenitors
+GTTACGATGGCGGTTT-7995-1	Neural tube
+ACGCTCTCAAAGTAATC-7995-1	Limb mesoderm
+GAGAATTCGTCACAAGGC-7995-1	Neural progenitors like cells
+CTTTAATCGCCACATC-7995-1	Pharyngeal arch mesoderm
+GCATGGGTCTACCGTT-7995-1	Cardiopharyngeal progenitors SHF
+TGCCTCACATTCCTTG-7938-3	Branchial arch neural crest
+AATGTTGGCTTGATTCT-7995-1	Optic neuronal progenitors
+TGATCCCGTAGGATGTGAG-7995-1	Erythroid progenitors 2
+GAAGTTTAGACGTGCTAG-7995-1	Fore/midbrain progenitors
+GAATCAAGTGGGACTTCC-7995-1	Branchial arch neural crest
+GATGGAGGAGCTTACTCC-7995-1	Neural progenitors like cells
+AATTCCCATCGAAGCT-7995-1	Posterior gut endoderm
+CATCGCAGTCTGTGGT-7995-1	Fore/midbrain progenitors
+TCGAAGCTGGCCCTTA-7938-3	Mesoderm
+AAGAACGGGAGAACGGG-7938-3	Spial cord
+AATTCCCACACTCCTC-7995-1	Limb mesoderm
+AGAGACTAGAGCGGTA-7995-1	Hindbrain progenitors
+TGACTCGATGCATCCGCTA-7995-1	Branchial arch neural crest
+TGAATGAAGCAGAAAGACC-7938-3	Neural progenitors like cells
+AGAAGTGCCCTGCGTTG-7995-1	Erythroid
+GGATAAAGATTGGGCC-7938-3	Pharyngeal arch mesoderm
+TGACAAGTCATCCTGACAC-7938-3	Cardiopharyngeal progenitors SHF
+AACGCAGAGGAAGTGCC-7995-1	Hindbrain progenitors
+TGACTCGATGCAAATCAGA-7938-3	Neural progenitors like cells
+AGCCAAGATCGAGATGT-7995-1	Cardiopharyngeal progenitors SHF
+TGAATTCGACGTGTAAAGG-7995-1	Endothelium
+TGAAACCCTTGTGGTATGA-7995-1	Sclerotome
+AGGTGACACAATTCCCA-7938-3	Limb mesoderm
+GACGTACCTACTTCTGGA-7995-1	Endothelium
+ATTTGGGAGAACACACG-7938-3	Endothelium
+GTTGCACGAACCTGAC-7938-3	Erythroid progenitors 2
+ATTTATCACCGAACGTA-7995-1	Branchial arch neural crest
+AAAACTCGAATATCTTC-7938-3	Neural progenitors like cells
+ACAACGTGGGGGCCAAT-7995-1	Erythroid
+GCATGGGTCCCAAGCA-7938-3	Mesoderm
+ATCATGAGGACGGTAGC-7938-3	Hindbrain progenitors
+AGGGCCAATCTCGATGC-7938-3	Pharyngeal arch mesoderm
+TGATGCCCGCAAGGAC-7995-1	Caudal neural tube
+GATGCCATCGTTCGCTGG-7995-1	Cardiomyocytes
+AGGGAACGAACTGAGTT-7995-1	Limb mesoderm
+TGACCATTACTTCCCGTAG-7938-3	Somites
+ATTTCCGGACCTTGCC-7995-1	Branchial arch neural crest
+AATTCAGTAGCGTTGCT-7938-3	Pharyngeal arch mesoderm
+GATTGGCGTTTGGGATTC-7995-1	Limb mesoderm
+AAATCGGGTAGGATTCA-7995-1	Hindbrain progenitors
+GACACGGACTGAATACGC-7995-1	Hindbrain progenitors
+TGAGCCACATCATATACCT-7995-1	Caudal neural tube
+ACAGATTACCGATTGAT-7938-3	Pharyngeal arch mesoderm
+GAGAATACGCATGTTGGC-7938-3	Cardiomyocytes
+AGAAGTGCCTAGTCGCA-7938-3	Erythroid
+TGACTTCTGGACCGTGTTT-7995-1	Limb mesoderm
+ACAGGTGTCTGCTATTT-7995-1	Neural progenitors like cells
+ACCCTTGGTTTATAGCC-7995-1	Sclerotome
+GAACACTAAGTTGTCGCC-7938-3	Pharyngeal arch mesoderm
+TGAATGACTTTAGAAGTCC-7995-1	Spial cord
+TGATCGACACCCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+ACGCTCTCACTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+TACCGGCAGGCGGTTT-7995-1	Otic neuronal progenitors
+CCAACCGTCTATAGAG-7995-1	Caudal neural tube
+TGAGCAGGGTAGGCCCTTA-7995-1	Pharyngeal arch mesoderm
+AAAATCGTTTGGAGGAG-7995-1	Fore/midbrain progenitors
+GGCCCTTACCGCAACT-7995-1	Cardiopharyngeal progenitors SHF
+ACTAGATTGTGTTTGAG-7938-3	Limb mesoderm
+GACCCGAATGAACAATCC-7938-3	Erythroid progenitors 2
+AACGGTAGCGCGCATTC-7995-1	Neural progenitors like cells
+CGCTAATAAGCACCAC-7995-1	Branchial arch neural crest
+TGCAAGGGCAATACTT-7938-3	Anterior gut endoderm
+TGAGATTTACCGGAGAAGC-7995-1	Erythroid progenitors 2
+ACGGAATTTTGAAATGA-7995-1	Sclerotome
+AGCCAAGATCCCGACTT-7938-3	Neural progenitors like cells
+GAGGTCCCTTTGATGCCC-7995-1	Pre-somitic mesoderm
+AGTATGAGTACTTCAAT-7995-1	Sclerotome
+TGACCTCGTCTACGGTAGC-7995-1	Erythroid progenitors 1
+GACCCTTCAGAGAAGTTA-7995-1	Limb mesoderm
+GCATGGGTACTAGGAT-7995-1	Pharyngeal arch mesoderm
+TGACTAGTAACTGTGTCCT-7938-3	Limb mesoderm
+GACCTGACACCTCGATGC-7995-1	Cardiopharyngeal progenitors FHF
+CCAACCGTTGAAATGA-7938-3	Branchial arch neural crest
+CGAACGTAGCAGTCGA-7995-1	Branchial arch neural crest
+GACAGTCCCTCGCCTTGA-7938-3	Migratory neural crest
+GGCCCTTATACCAGGC-7938-3	Branchial arch neural crest
+AGGGAACGAAGCGTAGG-7995-1	Hindbrain progenitors
+GACATCTCCCAGACACCA-7995-1	Pharyngeal arch mesoderm
+GATGTACACGTGGCCTGT-7995-1	Branchial arch neural crest
+TGATCCCGTAGTTGTGACT-7938-3	Limb mesoderm
+AAGAACGGGCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+TCATATGGAGTTTAGA-7995-1	Limb mesoderm
+ATGCTCCGTATTGGGCC-7938-3	Limb mesoderm
+GAGCGGTACTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+ATTTCCGGCGGAATTT-7938-3	Pre-somitic mesoderm
+GATTGGCGTTGTTAACCA-7995-1	Neural progenitors like cells
+AATGTTGGCTTTGTGTC-7938-3	Limb mesoderm
+TGAAACAATCCGCAAGGAC-7995-1	Erythroid
+ACCCTAACCGCTTTCCA-7995-1	Anterior gut endoderm
+TGAGTAATCCCCCAACCGT-7995-1	Spial cord
+TGGCTACCAGGATTCA-7938-3	Pharyngeal arch mesoderm
+TGAGCGCATTCCGCCTTGA-7995-1	Migratory neural crest
+GACGAATAATTGTTTGAG-7938-3	Branchial arch neural crest
+AAATCAGAAATGACCC-7995-1	Cardiac mesenchyme
+GAATTGGGCCGGAATAGA-7995-1	Neural progenitors like cells
+TTCGGCCTTCCTTATT-7938-3	Neural progenitors like cells
+GACGTACCTATTCGCTGG-7995-1	Migratory neural crest
+TGAAGCGTAGGTTGGACTT-7995-1	Erythroid progenitors 1
+GAGAGAATTGTCATGAGG-7938-3	Hindbrain progenitors
+TGACAACAAATCTGAGTGC-7995-1	Neural tube
+AAGAACGGGCGTGCTAG-7938-3	Posterior gut endoderm
+AAAAGCCTACACTCCTC-7938-3	Migratory neural crest
+GAAGTTTAGACCGCTGTT-7995-1	Fore/midbrain progenitors
+TGACTTGGTGTTGTCTTTC-7995-1	Hindbrain progenitors
+GACCTACTAGACTGCCGT-7995-1	Otic neuronal progenitors
+GATCGGTACGCAGATTAC-7995-1	Branchial arch neural crest
+AAATCAGAAGCTATGA-7995-1	Somites
+TTCGGCCTTGTGTCCT-7995-1	Fore/midbrain progenitors
+CGGCTTACGAATACGC-7938-3	Limb mesoderm
+GACAAGAGGGCTAGTAAC-7995-1	Fore/midbrain progenitors
+AATGCGGATGAAGGCTT-7938-3	Pre-somitic mesoderm
+TGACTTCGCACAGAGGTGG-7995-1	Branchial arch neural crest
+TGAGCAAGGACGAGAGTAT-7995-1	Cardiopharyngeal progenitors FHF
+TGAAGCGCGATCCTGACAC-7995-1	Limb mesoderm
+CGCTAATACTTACTCC-7938-3	Hematopoietic stem and progenitor cells
+TGACAGACCATAGCAGAAC-7938-3	Pre-somitic mesoderm
+AGGGTGTATTCATCCTT-7995-1	Posterior gut endoderm
+AAAAGCCTACGAGTCTG-7995-1	Pharyngeal mesoderm like cells
+AGCCTCTTTTCCCGTAG-7995-1	Cardiopharyngeal progenitors SHF
+GACAGTCCCTTCTGTGGT-7995-1	Erythroid
+ATCATGAGGTCTCACTT-7995-1	Hindbrain progenitors
+GACAGTCCCTTGTGGCTA-7995-1	Hindbrain progenitors
+AGAAGTGCCTCCCTGAT-7995-1	Optic neuronal progenitors
+GATGTTCCAGATGACTTT-7995-1	Cardiopharyngeal progenitors SHF
+GATACAAACTTCCAGGGA-7938-3	Pharyngeal arch mesoderm
+TGCAAGGGAAAGCCTA-7938-3	Pre-somitic mesoderm
+ATCCGCTAGCCACATC-7995-1	Notochord
+GATGGAGGAGGCATGGGT-7995-1	Spial cord
+TTATAGCCATTGGGCC-7995-1	Pre-somitic mesoderm
+GAATCAAGTGTCGACACC-7995-1	Cardiopharyngeal progenitors FHF
+GATCCCAATCGAGCGGTA-7938-3	Fore/midbrain progenitors
+TGAATACCCAGTACAGCCG-7995-1	Pre-somitic mesoderm
+GACGCCTTGAGTGTAACC-7938-3	Branchial arch neural crest
+GGATAAAGCAGATTAC-7995-1	Caudal neural tube
+TGATCCCGTAGAGTGATGC-7995-1	Anterior gut endoderm
+TGACTGGTGCACTATAGAG-7995-1	Cardiopharyngeal progenitors FHF
+ACTAGATTGTAAGACGG-7995-1	Cardiopharyngeal progenitors SHF
+CATCGCAGGGAATAGA-7995-1	Hindbrain progenitors
+AAAACGCCTCGGACAAC-7995-1	Pre-somitic mesoderm
+TGAATGACTTTATGTTGGC-7995-1	Pharyngeal arch mesoderm
+AAAGTAATCTCGGTTTA-7995-1	Sclerotome
+TTCGGCCTCTGAGTGC-7938-3	Hindbrain progenitors
+GATCGGTACGGTCAATAC-7938-3	Fore/midbrain progenitors
+ATCAGCGCCGAGATGT-7995-1	Sclerotome
+TGAGACAAAGGTCATGAGG-7938-3	Neural progenitors like cells
+AATATCTTCTAGCCTCG-7995-1	Visceral endoderm
+TCATCCTTTAACCATC-7995-1	Endothelium
+AATTCAGTAGGACTTCC-7995-1	Endothelium
+CGGCTTACTGCCATCG-7995-1	Pre-somitic mesoderm
+ACAGATTACACCTTGCC-7995-1	Limb mesoderm
+TTCGGCCTCTTGGTGT-7995-1	Neural progenitors like cells
+TCATATGGGAGCGGTA-7938-3	Limb mesoderm
+AAGATGGCTGTGTAACC-7995-1	Neural tube
+ATGGCCTGTAGCAGAAC-7995-1	Fore/midbrain progenitors
+AATATCTTCGTAATCCC-7995-1	Sclerotome
+TACAGCCGGAGGCTGA-7995-1	Branchial arch neural crest
+GCTCTAGTGTGTCGGA-7995-1	Limb mesoderm
+TGAGCCGGATTATCCGCTA-7995-1	Neural tube
+GACAGTCCCTTCCAGTCC-7995-1	Migratory neural crest
+GAATGGAAATGATGTGAG-7995-1	Neural progenitors like cells
+TAGCCTCGTTCGCTGG-7995-1	Erythroid progenitors 2
+AAATGAATGCTCTTGAC-7995-1	Pharyngeal arch mesoderm
+GACGCTAGTCGCGCATTC-7938-3	Neural progenitors like cells
+ATCCGCTAAATGAATG-7995-1	Megakaryocyte progenitors
+TGACGTATCGGATACTCTT-7938-3	Migratory neural crest
+ATAGTGGACGTGTAACC-7938-3	Pre-somitic mesoderm
+ACGTGGATACATACATT-7995-1	Pre-somitic mesoderm
+GATGTAAAGGTCCCAATC-7995-1	Erythroid progenitors 2
+CGGCTTACTGTGTCCT-7995-1	Cardiopharyngeal progenitors SHF
+AAGCGCCTTGATTAGAC-7995-1	Branchial arch neural crest
+TGAAAATGTCGAATGTTTG-7995-1	Erythroid progenitors 2
+AAAATCGTTATGTTGGC-7995-1	Hindbrain progenitors
+TGACGTATCGGGGAATAGA-7995-1	Anterior gut endoderm
+TGATTGTCGCCGGCCCTTA-7995-1	Limb mesoderm
+GACGAATAATCGTGGATA-7995-1	Neural progenitors like cells
+TGAAGGTTGTGGTTACCGC-7995-1	Sclerotome
+TGAAACAATCCCAAGTCAT-7995-1	Cardiopharyngeal progenitors SHF
+AATTCCCATGACGGAC-7938-3	Otic neuronal progenitors
+GACGAGATGTGCAAGGAC-7995-1	Spial cord
+GATCGGTACGCGTCAGCA-7995-1	Erythroid progenitors 2
+GAATTGGGCCGACAGATA-7995-1	Notochord
+TGAATGACCGAAGTGATGC-7995-1	Erythroid progenitors 2
+AGTGTCGGAAACTTAGC-7995-1	Pharyngeal arch mesoderm
+GACCCATAGCCCGCTGTT-7995-1	Fore/midbrain progenitors
+TGAGCCACATCTACAAACT-7995-1	Neural progenitors like cells
+GGTGGGATTGGCCTGT-7995-1	Cardiomyocytes
+TGCTATTTAGTGAAAG-7995-1	Neural progenitors like cells
+GATTGATCTAGGGAACGA-7995-1	Hindbrain progenitors
+ATATGCATTTATCTGT-7995-1	Branchial arch neural crest
+TGAGCCGGATTGCTTTCCA-7995-1	Mesoderm
+ATTAGGACCACCCATAT-7995-1	Fore/midbrain progenitors
+CGGCACATACTTCAAT-7995-1	Migratory neural crest
+TGAATACCCAGGTACCTTG-7995-1	Hindbrain progenitors
+ATCCGCTATCATCCTT-7995-1	Pharyngeal arch mesoderm
+GTTTGTTTCAGTTTGC-7938-3	Neural tube
+GAAAGATTGTGGTTTCTC-7995-1	Spial cord
+GATCTCAACCAAATCGTT-7995-1	Branchial arch neural crest
+ATCGGTTCGCGAGATGT-7995-1	Mesoderm
+AACGAAACGGACGATGG-7938-3	Hindbrain progenitors
+TACAGCCGCCTATTCA-7995-1	Anterior gut endoderm
+AAAACCTCCAGCTATGA-7938-3	Branchial arch neural crest
+ACTAGATTGTTCCAGAC-7938-3	Anterior gut endoderm
+ACGGACAACTCGGTTTA-7995-1	Mesoderm
+AAGCGCCTTCTCAGAAT-7995-1	Cardiopharyngeal progenitors SHF
+AGTTTACGTCTCTTGAC-7995-1	Neural tube
+AGGTCACAGACGGTAGC-7995-1	Fore/midbrain progenitors
+GATAGTGTTTACGAAACG-7995-1	Cardiopharyngeal progenitors FHF
+AACCCATATCCATTTGA-7995-1	Pharyngeal arch mesoderm
+ACGTGCTAGCGCTAATA-7995-1	Pharyngeal arch mesoderm
+GATCCCAATCGTCCAAAG-7938-3	Limb mesoderm
+AGGTGACACAGCACCAC-7995-1	Neural tube
+TGAGGCTACTAGAGGCTGA-7938-3	Pharyngeal arch mesoderm
+TGGCTACCGTCAAAGA-7995-1	Migratory neural crest
+ACTCCGCATTTATAGCC-7938-3	Hindbrain progenitors
+GATTGAGGGTTAGCCTCG-7995-1	Limb mesoderm
+TGAAGGTTGTGGTTTACGT-7995-1	Branchial arch neural crest
+ATCACGTTTATCTTTGT-7995-1	Erythroid progenitors 2
+ACAGATTACCGGCTTAC-7995-1	Mesoderm
+AATATACCTTTCCAGAC-7938-3	Caudal neural tube
+TCATATGGGTAATCCC-7995-1	Erythroid progenitors 2
+GAGCGTTGCTTAACCATC-7995-1	Anterior gut endoderm
+AAGACACCACGCTCTCA-7938-3	Erythroid
+GCTCTAGTTTGCATAT-7995-1	Pre-somitic mesoderm
+GAAGTGATGCTTGAGGGT-7995-1	Cardiopharyngeal progenitors FHF
+ATCATGAGGGTGTCGGA-7995-1	Hindbrain progenitors
+AAAAGTCGGCGTGGATA-7938-3	Anterior gut endoderm
+ACAGGTGTCATGTTGGC-7938-3	Hindbrain progenitors
+GCAGTCGAGGTCTGAC-7995-1	Limb mesoderm
+GAACACTAAGGATTTACC-7995-1	Cardiopharyngeal progenitors SHF
+ACCCTTGGTATTTCCGG-7938-3	Cardiopharyngeal progenitors SHF
+ACCCGACTTTCATATGG-7995-1	Megakaryocyte progenitors
+GATGTGCTCAGCAGTCGA-7995-1	Limb mesoderm
+GACGTCAGCAGTCCATGT-7995-1	Limb mesoderm
+TGATTTACCCTATTGGGCC-7938-3	Cardiopharyngeal progenitors FHF
+GATTAAACTGCTTGGTGT-7995-1	Neural progenitors like cells
+AGGCAACGCCTATTCA-7995-1	Limb mesoderm
+TGATCCCGTAGGCAAGGAC-7938-3	Sclerotome
+TGACACAAGGCACTAGCCA-7995-1	Hindbrain progenitors
+GAATGGGCACTTATAGCC-7995-1	Cardiopharyngeal progenitors SHF
+AACCTGACATCAGCGC-7995-1	Otic neuronal progenitors
+AATACTCTTTTGGACTT-7995-1	Otic neuronal progenitors
+GCTCTAGTTCACGTTT-7938-3	Endothelium
+CATCGCAGGCCACATC-7938-3	Branchial arch neural crest
+GACTTCTTCGCACTTTCT-7938-3	Branchial arch neural crest
+TGAGCGCATTCGAAAGACC-7995-1	Branchial arch neural crest
+AGCTTTCCAAGCACCAC-7995-1	Spial cord
+GACAAGAGGGCTGGTGCA-7995-1	Hindbrain progenitors
+AAAATCGTTCTGAGTGC-7995-1	Migratory neural crest
+AGTGGATGGCAATTAGT-7995-1	Pharyngeal arch mesoderm
+GAGGGAACCTGGCCCTTA-7995-1	Pharyngeal arch mesoderm
+CGTATTTCCTAGACCC-7995-1	Limb mesoderm
+CTATAGAGAAGCGTAC-7995-1	Fore/midbrain progenitors
+TGAGCCGGATTTCTAGCAG-7995-1	Hindbrain progenitors
+AAATGACCCATGTTGGC-7995-1	Pre-somitic mesoderm
+TGATCCAGTCCAGTGAAAG-7995-1	Limb mesoderm
+TGATAGAAATGCTCAGAAT-7995-1	Erythroid progenitors 2
+CATCGCAGCTTCGATT-7995-1	Pre-somitic mesoderm
+TGCAAGGGGGCCTAAG-7938-3	Mesoderm
+GAAGTTTAGACAGATTAC-7938-3	Anterior gut endoderm
+GATCCCAATCGTCAATAC-7938-3	Neural progenitors like cells
+GACCTATTCAGCAAGGAC-7995-1	Fore/midbrain progenitors
+TTCCGCTCTTTGTGTC-7995-1	Sclerotome
+AAAATCGTTGGGAAATC-7995-1	Migratory neural crest
+GACGCTAGTCTTTAACAG-7995-1	Cardiopharyngeal progenitors SHF
+GACCTACTAGAAGTAATC-7995-1	Sclerotome
+CATCGCAGTACAAACT-7995-1	Hindbrain progenitors
+TGATGATAACAGGTGGGAT-7995-1	Neural progenitors like cells
+ACGCTCTCAGAGGCTGA-7995-1	Limb mesoderm
+AAAAGCCTATTCCGCTC-7995-1	Pharyngeal arch mesoderm
+TGAGCAGGGTAGGTGGGAT-7995-1	Fore/midbrain progenitors
+CTTTCTTTGGGTGTAT-7995-1	Fore/midbrain progenitors
+GGAAACAGATTCAGTA-7938-3	Endothelium
+GATTAAACTGTTGCATAT-7995-1	Hindbrain progenitors
+GAGATCTCGGCGATTGAT-7995-1	Erythroid progenitors 3
+AACGAAACGCTTACTCC-7938-3	Hematopoietic stem and progenitor cells
+GAGGCGTTAGAGCGCCTT-7938-3	Spial cord
+GATTGAGGGTCACAGTTT-7938-3	Hindbrain progenitors
+TGCAAGGGCACAAGGC-7995-1	Spial cord
+TGATCGTCATGATGTTGGC-7938-3	Sclerotome
+TGCAAGGGTTTATCAC-7995-1	Neural progenitors like cells
+AGAGACTAACGTATAC-7995-1	Spial cord
+TTTGTGTCGTCCGTAC-7938-3	Branchial arch neural crest
+GATTTAACAGGCAGGGTA-7995-1	Pharyngeal arch mesoderm
+GATTGAGGGTGCACCTCT-7995-1	Optic neuronal progenitors
+TTCGGCCTAAGCGTAC-7995-1	Endothelium
+AGGTCACAGCAGGTGTC-7995-1	Erythroid
+ACTCCGCATCAATTAGT-7938-3	Spial cord
+CATCGCAGCACAAGGC-7995-1	Limb mesoderm
+ATCTAGCAGCGATTGAT-7995-1	Fore/midbrain progenitors
+TGACAACAAATACCACGCT-7995-1	Pharyngeal arch mesoderm
+GATCTCAACCTCATGAGG-7995-1	Neural progenitors like cells
+TGACAAGTCATTTAGGACC-7995-1	Erythroid progenitors 2
+ATCTAGCAGCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+GGAAACAGATCTTTGT-7995-1	Neural progenitors like cells
+GACGGGCTTTTGGTATGA-7938-3	Cardiomyocytes
+GATAAGACGGTGATGCCC-7938-3	Branchial arch neural crest
+TGACTCGCGTATACAGCCG-7995-1	Spial cord
+TGATATTGCCTACTAGCCA-7995-1	Optic neuronal progenitors
+CTTTCTTTGACAAAGG-7938-3	Limb mesoderm
+TGAAACAATCCTCATATGG-7938-3	Pharyngeal arch mesoderm
+TGATCGACACCCAACAAAT-7938-3	Spial cord
+GAACTAGGATTCCAGGGA-7938-3	Erythroid progenitors 2
+TGACTCGATGCCTTACTCC-7995-1	Optic neuronal progenitors
+CCGCTGTTAACTTAGC-7995-1	Otic neuronal progenitors
+GATGACCCTCTTTAACAG-7995-1	Fore/midbrain progenitors
+AACCTGACGTGTAACC-7995-1	Branchial arch neural crest
+ACCTTCTTGTAATCCC-7938-3	Neural tube
+TTTGTGTCGCTTTGGC-7938-3	Erythroid progenitors 2
+CCCATCTGAGCGAAGT-7995-1	Somites
+AGCACCTCTACAGCGGA-7995-1	Erythroid progenitors 2
+AAATCGGGTCGGCACAT-7995-1	Erythroid
+AGAACGATTGCGTTGCT-7938-3	Migratory neural crest
+TGCAAGGGTTGTTTAC-7995-1	Neural progenitors like cells
+TACAGCCGTAGTCGCA-7995-1	Endothelium
+GTTACGATAGCAGAAC-7938-3	Fore/midbrain progenitors
+TGACACAACAGTTGCATAT-7995-1	Limb mesoderm
+TGAGCAGGGTAAAACAGGG-7938-3	Otic neuronal progenitors
+GCTTACCTCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+TGCGACAGTTATCTGT-7938-3	Spial cord
+TACCGGCAGGTGGGAT-7995-1	Hindbrain progenitors
+GAAGTTTAGACTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+ACCATTTGATTTGTGTC-7995-1	Branchial arch neural crest
+ATGGCCTGTAACTTAGC-7938-3	Sclerotome
+AGAAGTCCTGTAGTTT-7995-1	Branchial arch neural crest
+GAAGTTTAGAAATCGGGT-7995-1	Spial cord
+CTTTAATCTCTCAACC-7995-1	Pharyngeal arch mesoderm
+TGAGCCACATCAGGCAGTT-7995-1	Cardiopharyngeal progenitors FHF
+TGAATACCCAGGCATGGGT-7938-3	Branchial arch neural crest
+GAGGCGTTAGGTCGTCGT-7995-1	Pharyngeal arch mesoderm
+TGACACTTTCTTTGCACGC-7995-1	Mesoderm
+TGATTGCACGCTGTTTGAG-7995-1	Pharyngeal arch mesoderm
+TGACTACGAGCTACCAGGC-7995-1	Branchial arch neural crest
+GAGACAGATAGGGTGTAT-7995-1	Somites
+AAGAACGGGAGGCAACG-7938-3	Fore/midbrain progenitors
+GAACTAGGATCGCTAATA-7938-3	Fore/midbrain progenitors
+TGATGATAACATTGGCGTT-7995-1	Hindbrain progenitors
+AAATCGGGTGGTCTGAC-7995-1	Pre-somitic mesoderm
+AGGTGACACATACCCAG-7938-3	Otic neuronal progenitors
+GATCGGTTTACTGCGTTG-7938-3	Spial cord
+AACGCAGAGCATCTCCC-7938-3	Pharyngeal arch mesoderm
+AAATCAGATAGCCTCG-7995-1	Hindbrain progenitors
+TGAGGAATAGAGAAAGACC-7995-1	Spial cord
+GATACAAACTCTTTAATC-7995-1	Sclerotome
+TGGCTACCTAGTGTTT-7995-1	Hindbrain progenitors
+GATGACGGACATGAAGCA-7995-1	Limb mesoderm
+GCAGCATGAGTGAAAG-7938-3	Cardiopharyngeal progenitors FHF
+GGATAAAGTAGTGGAC-7995-1	Limb mesoderm
+GACTTCTTCGTCATATGG-7995-1	Cardiopharyngeal progenitors FHF
+TGATCCAGTCCGCTTACCT-7938-3	Branchial arch neural crest
+GGAGAAGCGCGCATTC-7938-3	Migratory neural crest
+ATGGCCTGTGTGTCGGA-7938-3	Hindbrain progenitors
+ACCCTTGGTAAACGCCT-7995-1	Fore/midbrain progenitors
+ATCTTTGTCTACCGTT-7938-3	Sclerotome
+TGAGAGTTCACTTTGTGTC-7995-1	Branchial arch neural crest
+ATAGTCGCAACAGCGGA-7995-1	Neural progenitors like cells
+TGACGTATCGGCGGACAAC-7938-3	Neural progenitors like cells
+TGACTACGAGCAATTCCCA-7938-3	Pharyngeal mesoderm like cells
+TGAAGAAGTTATAGTCGCA-7995-1	Surface ectoderm
+GAAGTGATGCTGTCTTTC-7995-1	Erythroid
+GACATCTCCCTAGTCGCA-7995-1	Hindbrain progenitors
+GAAGGCAGTTACGCTCAG-7995-1	Mesoderm
+TGAAGCGCGATATGGAAAT-7995-1	Branchial arch neural crest
+TGACACAACAGAAATCAGA-7995-1	Mesoderm
+GAGAATTCGTGATGTGAG-7995-1	Branchial arch neural crest
+GACGAGATGTGAGTTTCG-7995-1	Cardiopharyngeal progenitors FHF
+GTTTGTTTGGGCCAAT-7995-1	Mesoderm
+TGATCGACACCGTAATCCC-7938-3	Sclerotome
+AAATGAATGACGCAGAG-7995-1	Cardiopharyngeal progenitors SHF
+GATCGGTTTAAAGTAATC-7995-1	Anterior gut endoderm
+TAACTACTGTCAAAGA-7995-1	Endothelium
+TGGTATGAGAGCGGTA-7938-3	Branchial arch neural crest
+TGATCGTCATGTCTGTGGT-7995-1	Migratory neural crest
+GATGGGATTCGGACTTCC-7995-1	Spial cord
+AGTCAAAGATTGGATCG-7938-3	Migratory neural crest
+ACCATTTGAGGTCTGAC-7938-3	Sclerotome
+TCCAGGGAGATGTGAG-7995-1	Cardiopharyngeal progenitors FHF
+TGACTCGCGTATGTAGTTT-7995-1	Fore/midbrain progenitors
+GAGAAGGCTTGAAGGCTT-7938-3	Branchial arch neural crest
+TGAGCGCATTCATTTCCGG-7995-1	Sclerotome
+AGTGTCGGATACCAGGC-7995-1	Erythroid progenitors 2
+TGAATGAAGCAGGTGGGAT-7995-1	Sclerotome
+TCATATGGCTGGTGCA-7995-1	Mesoderm
+TGAGTAATCCCGCTTACCT-7938-3	Branchial arch neural crest
+TGACGTATCGGGCAGGGTA-7995-1	Cardiopharyngeal progenitors FHF
+TTAAGCGTCGCTAATA-7938-3	Caudal neural tube
+CTTACGGGACTCACCG-7995-1	Migratory neural crest
+ACAGGTGTCGAAGGCTT-7995-1	Spial cord
+GGATAAAGAGCGAAGT-7938-3	Caudal neural tube
+GAACAGCGGAGTTGCACG-7995-1	Hindbrain progenitors
+TGACGTAGAAGCATCTCCC-7995-1	Fore/midbrain progenitors
+GACATTTGTTGGCTACTA-7995-1	Cardiopharyngeal progenitors FHF
+TGCGACAGGACGATGG-7938-3	Fore/midbrain progenitors
+CTTCAGGTCTATAGAG-7995-1	Branchial arch neural crest
+AACTTAGCTGTTCCAG-7995-1	Hindbrain progenitors
+TGAGGCTACTAAGGCAACG-7938-3	Spial cord
+GGCCCTTATGCCATCG-7938-3	Sclerotome
+TCATATGGTTGTTTAC-7995-1	Cardiopharyngeal progenitors FHF
+TGACACAACAGGCCACATC-7938-3	Endothelium
+TGACTGGTGCACGGGCTTT-7995-1	Limb mesoderm
+TCATCCTTATATCTTC-7938-3	Fore/midbrain progenitors
+CCGCTGTTTTCCAGAC-7995-1	Neural progenitors like cells
+TGATCGACGGTAGGAAGAC-7938-3	Mesoderm
+AAAACGCCTATGAAGCA-7938-3	Sclerotome
+GACCACATTAGTTTACGT-7995-1	Pharyngeal arch mesoderm
+GGTGGGATGATTGCGA-7995-1	Limb mesoderm
+CGCTAATAATGGATTA-7995-1	Pharyngeal arch mesoderm
+AAAACGCCTTGTGTCCT-7938-3	Sclerotome
+GAGTTTCGCGGCTTAC-7995-1	Mesoderm
+GAGGGAACCTTTGGCGTT-7938-3	Hindbrain progenitors
+CCGCTGTTAAATCAGA-7995-1	Pharyngeal arch mesoderm
+AACGCAGAGTTTACCCT-7995-1	Cardiopharyngeal progenitors SHF
+TGATGTGGCTACGATTGAT-7995-1	Fore/midbrain progenitors
+GATTCCGAGTAGAGGTGG-7938-3	Branchial arch neural crest
+CCAACCGTCCATTTGA-7995-1	Spial cord
+ATCCGCTAGCGCATTC-7995-1	Branchial arch neural crest
+CTATAGAGTCATGAGG-7995-1	Hindbrain progenitors
+GAAGGAAGACCGTGGATA-7995-1	Cardiopharyngeal progenitors SHF
+AGTATGAGTGAGTTTCG-7995-1	Fore/midbrain progenitors
+GACACGGACTTTGTGACT-7938-3	Fore/midbrain progenitors
+AGGTCACAGTTCCAGAC-7995-1	Somites
+TGACTCGATGCAGTTTAGA-7995-1	Branchial arch neural crest
+AACTTAGCCCCGACTT-7995-1	Mesoderm
+ACGGACAACTTGTCGCC-7995-1	Mesoderm
+ACGCTCTCATTGGATCG-7995-1	Notochord
+ACCCACGAACGGTAGC-7938-3	Branchial arch neural crest
+AGGCCTAAGGTCAATAC-7995-1	Pharyngeal arch mesoderm
+GAACTAGGATCTTACTCC-7938-3	Migratory neural crest
+GACAAGAGGGAACCCTTG-7995-1	Hindbrain progenitors
+CCCAAGCAAGGAGCTT-7995-1	Mesoderm
+GAGATTGCGAGCAGGGTA-7938-3	Branchial arch neural crest
+AGAACGATTCCATTTGA-7995-1	Sclerotome
+TGACAACAAATAGGATTCA-7995-1	Mesoderm
+ATCTAGCAGAACTTAGC-7938-3	Cardiopharyngeal progenitors SHF
+GGCATGCTGAGAGTAT-7995-1	Sclerotome
+GATCCGTCCATAACCCGT-7995-1	Caudal neural tube
+GAACAGCGGAGCGCATTC-7995-1	Endothelium
+GCATGGGTCGTGGATA-7995-1	Neural progenitors like cells
+TGATCCAGTCCTGCTATTT-7995-1	Pre-somitic mesoderm
+GTACCTTGCCTACTAG-7995-1	Fore/midbrain progenitors
+TGAGAAGCACTGAGAGTAT-7995-1	Endothelium
+TGACTCGATGCAGTGATGC-7995-1	Branchial arch neural crest
+AATGCGGATACCTTCTT-7995-1	Branchial arch neural crest
+TGACTCGATGCCGTACCTA-7995-1	Cardiopharyngeal progenitors FHF
+GAGAGAATTGCTAGTAAC-7995-1	Spial cord
+GAGATCTCGGGGATAAAG-7995-1	Erythroid progenitors 2
+GCAGTCGACCACATTA-7995-1	Optic neuronal progenitors
+GATCGGTACGGACAGATA-7995-1	Pharyngeal arch mesoderm
+ACTTCAATGCTTACCT-7995-1	Spial cord
+ATCAGCGCTCTAGCAG-7995-1	Limb mesoderm
+ACCCGACTTGGGAAATC-7995-1	Hindbrain progenitors
+TGATCCCTGATGTCCAAAG-7995-1	Cardiopharyngeal progenitors SHF
+TGAGCCGGATTACCTTGCC-7995-1	Limb mesoderm
+TGATTCACATACTAGACCC-7995-1	Mesoderm
+CGCTAATAGGTCTGAC-7938-3	Pre-somitic mesoderm
+TCGAAGCTAAAGCCTA-7938-3	Limb mesoderm
+GTTACGATCATCTCCC-7995-1	Hindbrain progenitors
+GACGAGATGTTTGTGACT-7995-1	Pre-somitic mesoderm
+GGAGAAGCTCTAGCAG-7995-1	Cardiopharyngeal progenitors FHF
+TGAAAATGTCGGCAAGGAC-7995-1	Otic neuronal progenitors
+TGAAGAAGTTACAATACTT-7938-3	Spial cord
+AGCACCACCGGCTTAC-7995-1	Anterior gut endoderm
+GATGCCATCGTCCAGGGA-7938-3	Sclerotome
+TAAATAGGTTTGTGTC-7995-1	Cardiopharyngeal progenitors FHF
+AGCACCACGAAGTGCC-7995-1	Pre-somitic mesoderm
+TCCTTATTATTCAGTA-7995-1	Branchial arch neural crest
+GCAGCATGGGAGAAGC-7938-3	Pharyngeal arch mesoderm
+TGAGCCGGATTCTTACGGG-7995-1	Limb mesoderm
+ACTGAGTGCAGATGGCT-7938-3	Limb mesoderm
+CGCTAATAGGCGGTTT-7995-1	Pre-somitic mesoderm
+GATGGAGGAGGAGTTTCG-7938-3	Branchial arch neural crest
+AGCAGAACCGTGCTAG-7995-1	Neural progenitors like cells
+TGATTCGCTGGTCTGTGGT-7995-1	Otic neuronal progenitors
+CGCTAATAAATGAATG-7995-1	Cardiomyocytes
+GAAAGATTGTGGCCTAAG-7995-1	Limb mesoderm
+TGACATACATTCGTATCGG-7938-3	Endothelium
+GAGGACTTCCCTCAGAAT-7995-1	Neural progenitors like cells
+GATACCAGGCCTTCGATT-7995-1	Endothelium
+TGAGGAATAGAGTCCGTAC-7938-3	Neural progenitors like cells
+GAAGTTTAGAACGAAACG-7995-1	Branchial arch neural crest
+TGACACAAGGCGCGCATTC-7995-1	Anterior gut endoderm
+TGAGGCGGTTTCTGAGTGC-7938-3	Branchial arch neural crest
+ACCCTTGGTCACAGTTT-7938-3	Posterior gut endoderm
+GAGATTGCGAATCAGCGC-7938-3	Migratory neural crest
+AATGTTGGCCAATACTT-7938-3	Migratory neural crest
+GACGCTAGTCAATCGGGT-7995-1	Spial cord
+TGAAAACTGGTCCTACTAG-7938-3	Hindbrain progenitors
+AACGCAGAGATCCGCTA-7995-1	Cardiopharyngeal progenitors SHF
+GACACGGACTATCCGCTA-7938-3	Sclerotome
+AAATCAGATACAAACT-7995-1	Cardiopharyngeal progenitors SHF
+CGACGTCATTGTCGCC-7938-3	Endothelium
+TGATGCCCGGCGGTTT-7995-1	Pharyngeal arch mesoderm
+TGACTCGATGCGCACCTCT-7995-1	Hindbrain progenitors
+ACTTCAATGCGCATTC-7995-1	Limb mesoderm
+ACGTGGATAGTGTAACC-7995-1	Fore/midbrain progenitors
+ACTCCGCATCCAGCAGT-7938-3	Cardiopharyngeal progenitors SHF
+AAAGGTAATAAGCGTAC-7995-1	Optic neuronal progenitors
+GATTGATCTACGGCACAT-7995-1	Cardiopharyngeal progenitors SHF
+GCTTACCTTCCCTGAT-7995-1	Otic neuronal progenitors
+CTATAGAGTGGTATGA-7995-1	Branchial arch neural crest
+GCTCTAGTTCTGTGGT-7938-3	Pharyngeal mesoderm like cells
+GATTCCGAGTTTTGTGTC-7938-3	Mesoderm
+AGCACCTCTCTTCTGGA-7938-3	Cardiopharyngeal progenitors SHF
+AGCCAAGATCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+AACTGAGTTGGTGACAC-7995-1	Hindbrain progenitors
+AGCACCACCCCAAGCA-7995-1	Branchial arch neural crest
+ATCCGCTATTGGCGTT-7995-1	Sclerotome
+GTTCAACTCTCAGAAT-7995-1	Fore/midbrain progenitors
+GGAGAAGCTATTGCCT-7995-1	Anterior gut endoderm
+GATGTACACGTCCAGTCC-7938-3	Cardiopharyngeal progenitors SHF
+GACCTATTCACCCAAGCA-7995-1	Migratory neural crest
+AGGTGACACTAACTACT-7995-1	Neural progenitors like cells
+GATTAGACAGGAGCTT-7995-1	Sclerotome
+TGATGCCCATTCGACG-7995-1	Hindbrain progenitors
+GTTCAACTCAGTTTGC-7995-1	Megakaryocyte progenitors
+ATTTATCACATGCATGG-7938-3	Anterior gut endoderm
+AGAAGTCCGCTTTGGC-7995-1	Erythroid progenitors 3
+TGATCGACGGTGAAAGACC-7938-3	Endothelium
+GATGACCCTCGGAAACAG-7995-1	Limb mesoderm
+TGAGTGGAGCTGAAGGCTT-7995-1	Erythroid
+TGAGCAAGGACTCGACACC-7995-1	Hindbrain progenitors
+AAAACGCCTCGGCACAT-7995-1	Fore/midbrain progenitors
+GACCACATTAGGGAACGA-7995-1	Hindbrain progenitors
+GACAATTAGTGGAGAAGC-7995-1	Limb mesoderm
+TGACAACAAATCTTACTCC-7995-1	Hematopoietic stem and progenitor cells
+TACCGGCACTACGAGC-7995-1	Hindbrain progenitors
+AATGGATTAGAGCGGTA-7938-3	Fore/midbrain progenitors
+ACGGACAACTTTGTGTC-7995-1	Hindbrain progenitors
+ACCATTTGAGGATAAAG-7995-1	Neural tube
+AGTCAAAGACGGGTAGT-7938-3	Hindbrain progenitors
+AATACTCTTAAATCGTT-7938-3	Mesoderm
+TGAATATAGGACCCTAACC-7995-1	Hindbrain progenitors
+ATTAGGACCATCCCACG-7995-1	Erythroid
+GAGGACTTCCGCTTACCT-7995-1	Hindbrain progenitors
+CGTATTTCCTGCGTTG-7995-1	Otic neuronal progenitors
+ACCATTTGAACCACGCT-7995-1	Pharyngeal arch mesoderm
+AAAAGTCGGTGCAAGGG-7995-1	Hindbrain progenitors
+GACTCTTGACAGTGATGC-7995-1	Neural progenitors like cells
+AGGGTGTATTGGCCTGT-7995-1	Optic neuronal progenitors
+TGAGCAAGGACCCTGACAC-7995-1	Limb mesoderm
+GACTTACTCCCGCCTTGA-7995-1	Cardiomyocytes
+TGAATTCGACGGTCCATGT-7995-1	Branchial arch neural crest
+CAGTTTGCCCATTACT-7995-1	Spial cord
+ACGTGGATACGTGCTAG-7995-1	Limb mesoderm
+TGAAGAAGTTAGTTACCGC-7995-1	Limb mesoderm
+TGACAACAAATTTTGTGTC-7938-3	Optic neuronal progenitors
+ACTAGATTGTCGGTTCG-7995-1	Hindbrain progenitors
+ATAGTGGACCGAGATGT-7995-1	Sclerotome
+CGAACGTAGATTGCGA-7995-1	Pharyngeal arch mesoderm
+TGAGTGGAGCTCTTCAGGT-7995-1	Pharyngeal arch mesoderm
+CTTCAGGTAGTTTAGA-7995-1	Limb mesoderm
+AAGCTACGGCTCGATGC-7995-1	Hindbrain progenitors
+ATTTATCACTTTGGGAG-7995-1	Erythroid progenitors 2
+GATGCCATCGCGAGATGT-7995-1	Sclerotome
+TGATCGTCATGACTAGCCA-7995-1	Spial cord
+GTTACGATGGAGAAGC-7938-3	Limb mesoderm
+AATGTTGGCTCGTCATG-7995-1	Caudal neural tube
+ATAGTGGACGGGAACGA-7995-1	Neural progenitors like cells
+TGAGAAGCACTGGATAAAG-7995-1	Fore/midbrain progenitors
+TGAGGTCTGACTGTCTTTC-7995-1	Cardiomyocytes
+TGAGTACACTCCCGCTGTT-7995-1	Hindbrain progenitors
+ACGTGGATAGCCTCTTT-7938-3	Erythroid progenitors 1
+CTTCGATTGATTAGAC-7995-1	Erythroid progenitors 2
+GATTAAACTGCGGACAAC-7995-1	Pre-somitic mesoderm
+TGACTACGAGCTCACCGAG-7938-3	Neural progenitors like cells
+AAAAGTCGGCCTATTCA-7995-1	Branchial arch neural crest
+GAGATCTCGGACGCAGAG-7995-1	Anterior gut endoderm
+CTTCGATTCAGGTGTC-7938-3	Anterior gut endoderm
+AATGTTGGCTGAAATGA-7995-1	Cardiopharyngeal progenitors SHF
+ATGGCCTGTGTTGTCAT-7995-1	Fore/midbrain progenitors
+TGACGTATCGGCTTACTCC-7938-3	Hematopoietic stem and progenitor cells
+ATCCGCTAGTTACGAT-7938-3	Pre-somitic mesoderm
+TGACTCAGAATGTTGTCAT-7995-1	Branchial arch neural crest
+AGCTTTCCAAGGCAGTT-7938-3	Branchial arch neural crest
+GAGAAAGACCCACGGACT-7995-1	Fore/midbrain progenitors
+ACTAGATTGAGGCAACG-7995-1	Sclerotome
+TGACTCAGAATCCACATTA-7995-1	Branchial arch neural crest
+TGACTCGATGCTTCCGCTC-7995-1	Pharyngeal arch mesoderm
+GAGCGTTGCTTCCCGTAG-7995-1	Branchial arch neural crest
+AACCTGACGTCCATGT-7995-1	Fore/midbrain progenitors
+GACCCATAGCTAACCATC-7995-1	Neural progenitors like cells
+AAATGACCCTAGTGTTT-7938-3	Fore/midbrain progenitors
+AAGAACGGGTCGTCATG-7995-1	Limb mesoderm
+AAAACCTCCTTGATCTA-7938-3	Pre-somitic mesoderm
+AGAACGATTAAGCGTAC-7938-3	Pharyngeal arch mesoderm
+TGACTTGGTGTCCTACTAG-7995-1	Neural progenitors like cells
+ACAACGTGGGAGTTTCG-7938-3	Branchial arch neural crest
+TGAGGTTTCTCTCCCGTAG-7995-1	Cardiopharyngeal progenitors SHF
+TGAGGAATAGAGCAGGGTA-7938-3	Branchial arch neural crest
+ACTGCGTTGCCCATCTG-7938-3	Limb mesoderm
+ACTCCGCATTACTTGTG-7995-1	Sclerotome
+AGGCAACGTTCACATA-7938-3	Branchial arch neural crest
+AGGTCACAGACGCCATT-7995-1	Branchial arch neural crest
+TGCGACAGCCCATAGC-7995-1	Sclerotome
+GACATCTCCCGTTAACCA-7995-1	Limb mesoderm
+TGATTCACATATTGTTTAC-7995-1	Hindbrain progenitors
+TGATCCAGTCCTTTATCAC-7938-3	Fore/midbrain progenitors
+GAAGGAAGACGGCCCTTA-7995-1	Pharyngeal arch mesoderm
+GAATCAAGTGATATAGGA-7995-1	Endothelium
+AATGGATTAATACCCAG-7995-1	Endothelium
+AAGAACGGGGCATGGGT-7995-1	Hindbrain progenitors
+GAACACTAAGAGTGAAAG-7995-1	Limb mesoderm
+GATGACCCTCCCTGACAC-7995-1	Spial cord
+GAGTCCAAAGGTTTACGT-7938-3	Spial cord
+AGTCAAAGATAACCATC-7995-1	Pharyngeal arch mesoderm
+ATTTCCGGGATTAGAC-7995-1	Pharyngeal arch mesoderm
+GGATAAAGCGTGCTAG-7938-3	Branchial arch neural crest
+GTACCTTGAAAGTCGG-7938-3	Neural progenitors like cells
+TTATCTGTTCGAAGCT-7995-1	Limb mesoderm
+AAGCTTCTTTGTCGCC-7995-1	Endothelium
+ACGCTCTCACGTCAGCA-7995-1	Neural progenitors like cells
+TGACTCGATGCCTCGCGTA-7995-1	Branchial arch neural crest
+AATATACCTTAGTGGAC-7995-1	Branchial arch neural crest
+ATGGCCTGTGGATAAAG-7995-1	Branchial arch neural crest
+AGTCAAAGACATACATT-7938-3	Erythroid progenitors 2
+ATAGTCGCAGACGATGG-7995-1	Limb mesoderm
+TAGCCTCGACTGAGTT-7995-1	Endothelium
+GAGTTTCGAGGCAACG-7995-1	Migratory neural crest
+GACATCTCCCGACAGATA-7995-1	Sclerotome
+AGCAACCTGTTCCGAGT-7995-1	Hindbrain progenitors
+GACCTACTAGACACTAAG-7938-3	Pharyngeal arch mesoderm
+ACAGATTACACGCTCAG-7995-1	Cardiopharyngeal progenitors SHF
+TGATTGTTTACGACGATGG-7995-1	Migratory neural crest
+AAATGACCCGCAGGGTA-7995-1	Migratory neural crest
+CTTCGATTCACAAGGC-7995-1	Caudal neural tube
+TGATTTACCCTGCCTCTTT-7995-1	Neural progenitors like cells
+GTTCAACTGGTCCCTT-7938-3	Limb mesoderm
+GATCGGTACGATATGCAT-7995-1	Hindbrain progenitors
+ACACTCCTCAGCGAAGT-7995-1	Branchial arch neural crest
+GACGCTAGTCCTTACTCC-7938-3	Hematopoietic stem and progenitor cells
+TGACACAACAGGTTACCGC-7995-1	Cardiomyocytes
+TGAGGTCTGACTCCCAATC-7995-1	Caudal neural tube
+GACGAATAATTCGACACC-7995-1	Cardiopharyngeal progenitors FHF
+TTCCGCTCCGCTAATA-7938-3	Neural tube
+AGGCCTAAGCAAGAGGG-7938-3	Sclerotome
+AATTCCCATCGGTTTA-7938-3	Neural tube
+TGAAGGAGCTTGCAAAGCC-7995-1	Branchial arch neural crest
+GACATTTGTTTCACCGAG-7995-1	Spial cord
+GAGGGAACCTTCCAGTCC-7995-1	Mesoderm
+AATATACCTAAACGCCT-7995-1	Fore/midbrain progenitors
+ATAGTGGACCTTTAATC-7995-1	Megakaryocyte progenitors
+AATATCTTCTGTTTGAG-7995-1	Pharyngeal mesoderm like cells
+TGACGAGTCTGTGACGGAC-7995-1	Endothelium
+AATATACCTTAACCCGT-7995-1	Mesoderm
+AATCCCACGGCAGCATG-7995-1	Endothelium
+GACCACATTATCTGTGGT-7938-3	Caudal neural tube
+GACTTCTTCGACAGCGGA-7995-1	Spial cord
+ACGTGCTAGTCCAGGGA-7995-1	Limb mesoderm
+ATATGCATCATCTCCC-7938-3	Fore/midbrain progenitors
+GATCGGTTTACTTAGGTA-7995-1	Limb mesoderm
+CCGCTGTTAAACTCGA-7995-1	Sclerotome
+GGAGAAGCTTCACATA-7995-1	Limb mesoderm
+GGAGAAGCGGGTGTAT-7995-1	Hindbrain progenitors
+GATGTGCTCACTTACTCC-7995-1	Sclerotome
+GATTGATCTAACCTTCTT-7938-3	Caudal neural tube
+TGACTAGTAACCGCTAGTC-7995-1	Spial cord
+AAAACCTCCAGGAAGAC-7995-1	Fore/midbrain progenitors
+TGAAAACTGGTGGGAACCT-7938-3	Pharyngeal arch mesoderm
+GACACGGACTAAAGCCTA-7938-3	Pre-somitic mesoderm
+TGACTACGAGCTTCGCTGG-7995-1	Limb mesoderm
+AACCTGACCCAGCAGT-7938-3	Neural progenitors like cells
+AGCACCACCGTGCTAG-7995-1	Pre-somitic mesoderm
+AGTCAAAGAGTTACGAT-7995-1	Pharyngeal arch mesoderm
+TGATCGTCATGGAAGTGCC-7995-1	Cardiomyocytes
+ACTTCAATGTCAATAC-7995-1	Cardiopharyngeal progenitors FHF
+AATTCAGTAGAATACGC-7995-1	Neural progenitors like cells
+TGATCACCGAGGGTTAGTG-7995-1	Caudal neural tube
+TGACAATACTTGGAAACAG-7938-3	Cardiomyocytes
+AGGGTGTATTGTAGTTT-7995-1	Branchial arch neural crest
+ATCTTTGTGAAGGCTT-7995-1	Hindbrain progenitors
+TACTTGTGTGTTCCAG-7938-3	Limb mesoderm
+TGATCGTCATGTGACGGAC-7995-1	Cardiopharyngeal progenitors FHF
+TGCTATTTACGCAGAG-7995-1	Sclerotome
+ACCCTTGGTTGCCTCAC-7995-1	Migratory neural crest
+TTAAGCGTTGTTTGAG-7995-1	Otic neuronal progenitors
+AGGCAACGACTCACCG-7995-1	Branchial arch neural crest
+AACGGTAGCGCAGCATG-7995-1	Erythroid progenitors 2
+TGATCGTCATGAATCGGGT-7995-1	Neural progenitors like cells
+AACTTAGCCCCGAATG-7995-1	Branchial arch neural crest
+GACCTATTCAAGCACCAC-7938-3	Erythroid
+AATGCGGATAGCACCAC-7995-1	Branchial arch neural crest
+AAGATGGCTCCCTTGGT-7995-1	Limb mesoderm
+GATAGTGTTTACTGAGTT-7995-1	Limb mesoderm
+AGGTGACACATGGATTA-7995-1	Cardiopharyngeal progenitors FHF
+ACCCTTGGTTCCCAATC-7995-1	Endothelium
+TGACGTAGAAGCGGCACAT-7995-1	Erythroid progenitors 3
+GTACCTTGAATGAATG-7995-1	Erythroid progenitors 2
+ATTTCCGGTTTAACAG-7995-1	Sclerotome
+GGATAAAGTTGTCGCC-7995-1	Pre-somitic mesoderm
+AAATGACCCGGCTACTA-7995-1	Hindbrain progenitors
+AACTCACCGTACAGCCG-7995-1	Pre-somitic mesoderm
+GACTAGACCCGATGTGAG-7995-1	Caudal neural tube
+TGAAGGTTGTGCTACGAGC-7995-1	Spial cord
+AAGTGAAAGGTATGAGT-7938-3	Anterior gut endoderm
+ACGTGGATACTCTTGAC-7995-1	Cardiopharyngeal progenitors SHF
+TGATAGAAATGGGTGGGAT-7995-1	Somites
+GGCATGCTAAACTGGT-7938-3	Mesoderm
+TGATCACCGAGACTAGGAT-7995-1	Cardiopharyngeal progenitors SHF
+TGCAAGGGAAGCTTCT-7995-1	Cardiopharyngeal progenitors FHF
+GATGCCATCGGGTCTGAC-7938-3	Optic neuronal progenitors
+GACCCATAGCTCCGTCCA-7938-3	Neural tube
+TGATTCGCTGGAAACTGGT-7995-1	Mesoderm
+TGAAGCGTAGGTGACGGAC-7995-1	Mesoderm
+ACGTGCTAGAATGACCC-7938-3	Hindbrain progenitors
+TGAACGCTCAGACGCCATT-7995-1	Pharyngeal arch mesoderm
+GCTTTGGCATTGGGCC-7995-1	Cardiomyocytes
+GACATTTGTTCTTTCTTT-7995-1	Branchial arch neural crest
+GACACGGACTAGTTTAGA-7938-3	Spial cord
+GATGGTTTCTTGGTATGA-7938-3	Otic neuronal progenitors
+GATCTCACTTGAAGTGCC-7995-1	Neural progenitors like cells
+GAGGCGTTAGCGTGGATA-7995-1	Spial cord
+CATCGCAGACACTAAG-7995-1	Limb mesoderm
+TGAAAACTGGTACTAGGAT-7995-1	Cardiopharyngeal progenitors FHF
+AATTCCCAGGTCCCTT-7938-3	Hindbrain progenitors
+TGAAGGATTCACTTCTGGA-7995-1	Spial cord
+ACACTCCTCCTGCGTTG-7938-3	Pharyngeal arch mesoderm
+ACTAGATTGAATGACCC-7938-3	Otic neuronal progenitors
+GACTTACTCCCTTACTCC-7938-3	Hematopoietic stem and progenitor cells
+GATTAAACTGGCGCATTC-7995-1	Cardiopharyngeal progenitors SHF
+TGACTGGTGCATTATAGCC-7938-3	Pre-somitic mesoderm
+AACGAAACGTTGAGGGT-7938-3	Pre-somitic mesoderm
+ATTTCCGGCGGGCTTT-7995-1	Hindbrain progenitors
+GTGTAACCTTGGACTT-7995-1	Megakaryocyte progenitors
+GACCTATTCACTTACTCC-7995-1	Pharyngeal arch mesoderm
+GATCGGTACGGCCAAGAT-7938-3	Anterior gut endoderm
+TGACTTCTGGACGTACCTA-7995-1	Pre-somitic mesoderm
+GATTGAGGGTCAGTTTGC-7938-3	Cardiopharyngeal progenitors FHF
+ACTGCGTTGATTGGGCC-7995-1	Posterior gut endoderm
+AAGCTTCTTGTTCCAG-7995-1	Erythroid
+ACTGAGTGCGCTTTGGC-7995-1	Limb mesoderm
+TGATCCCGTAGTTTGTGTC-7995-1	Fore/midbrain progenitors
+ACAGGTGTCCTTACTCC-7938-3	Fore/midbrain progenitors
+GATCGGTTTACGAATAAT-7995-1	Cardiopharyngeal progenitors SHF
+GCAGCATGAGAGGTGG-7995-1	Pharyngeal arch mesoderm
+TGATCGACACCCGACTCCT-7995-1	Limb mesoderm
+GCTCTAGTGGGTGTAT-7995-1	Fore/midbrain progenitors
+TGATAACCCGTCGGCTTAC-7995-1	Endothelium
+GACGTACCTAATGCATGG-7995-1	Sclerotome
+ACAGGTGTCGGATAAAG-7995-1	Erythroid
+AGCCAAGATCTTAGGTA-7995-1	Branchial arch neural crest
+TGATTGTCGCCGGGTTGGT-7938-3	Sclerotome
+AGCAGAACGCTTACCT-7995-1	Caudal neural tube
+GATGTACACGTGATAACA-7995-1	Erythroid progenitors 2
+GACTTACTCCTCTGTGGT-7995-1	Branchial arch neural crest
+TGAAGGATTCAGCACCTCT-7995-1	Cardiopharyngeal progenitors SHF

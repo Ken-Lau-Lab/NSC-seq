@@ -1,0 +1,10 @@
+date
+java -jar ./code/LinTIMaT.jar -i ./input/Data_matrix_Comb_final2_for_lintimat.txt \
+ -gf ./input/top2000.txt \
+  -gc 2000 \
+   -ob ./output/bin_tree.newick \
+    -on ./output/nonbinary_tree.txt \
+     -mi 400000 -ci 0 > ./output/terminal_output.txt
+date
+
+then run the ./code/reproducing_LinTIMaT_tree_json_our_data.ipynb  

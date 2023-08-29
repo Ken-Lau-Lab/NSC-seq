@@ -1,0 +1,34 @@
+	cluster_type	color
+0	Anterior gut endoderm	ff0000
+1	Branchial arch neural crest	ae4004
+2	Cardiac mesenchyme	ff8000
+3	Cardiomyocytes	edbb6e
+4	Cardiopharyngeal progenitors FHF	ffff00
+5	Cardiopharyngeal progenitors SHF	8de000
+6	Caudal neural tube	a88b04
+7	Endothelium	4a3b00
+8	Erythroid	008000
+9	Erythroid progenitors 1	538337
+10	Erythroid progenitors 2	8daf6f
+11	Erythroid progenitors 3	00ff00
+12	Fore/midbrain progenitors	80ff80
+13	Hematopoietic stem and progenitor cells	60c3be
+14	Hindbrain progenitors	08d07e
+15	Limb mesoderm	0b3852
+16	Megakaryocyte progenitors	0f4ff6
+17	Mesoderm	008080
+18	Migratory neural crest	01aced
+19	Neural progenitors like cells	00ffff
+20	Neural tube	80ffff
+21	Notochord	495ba9
+22	Optic neuronal progenitors	7934fe
+23	Otic neuronal progenitors	0905c3
+24	Pharyngeal arch mesoderm	5b0c8b
+25	Pharyngeal mesoderm like cells	cf02fd
+26	Posterior gut endoderm	b529a8
+27	Pre-somitic mesoderm	f648e1
+28	Sclerotome	b28cd2
+29	Somites	f3b5f4
+30	Spial cord	be5f64
+31	Surface ectoderm	fe038b
+32	Visceral endoderm	a80549
