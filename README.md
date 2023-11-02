@@ -7,6 +7,8 @@
 
 ![NSCseq_summary_plot](https://github.com/Ken-Lau-Lab/NSC-seq/assets/54040073/c6fa7ddb-8eff-4592-9430-dfade3b0b5a1)
 
+#### This repository is under development. We will update the data analysis pipeline and code.  
+
 # Here we optimized a multi-purpose single-cell CRISPR platform for: 
 ## 1. Single-cell lineage tracking 
 ### We leveraged a self-mutating CRISPR system (e.g. homing CRISPR barcoded MARC1 mouse) to perform lineage tracking at single-cell resolution from embryo to adult stages. 
