@@ -9,5 +9,9 @@
 
 # Here we optimized a multi-purpose single-cell CRISPR platform for.
 ## Single-cell lineage tracking 
+### We leveraged a self-mutating CRISPR system (e.g. homing CRISPR barcoded MARC1 mouse) to perform lineage tracking at single-cell resolution 
 ## Single-cell temporal recording 
+### Here we developed a new metric called mutation density by utilizing the accumulative mutation pattern of homing CRISPR. 
 ## Single-cell CRISPR screen
+### Here we use conventional (KO) vector libraries to perform single-cell CRISPR screen (Perturn-seq). 
+#### Note that the single-cell CRISPR screen application is submitted as a separate manuscript.  
