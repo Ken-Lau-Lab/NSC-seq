@@ -1,6 +1,6 @@
 # Temporal recording of mammalian development and precancer
 ## Islam et al. 
-![Graphical_abstract_v3](https://github.com/Ken-Lau-Lab/NSC-seq/assets/25446589/ead8c805-70de-4164-b2b5-9518e586ab1a)
+![Graphical_abstract_v3](https://github.com/Ken-Lau-Lab/NSC-seq/assets/54040073/a96bc4da-b0fc-4c8f-9550-752ded3f032f)
 
 # NSC-seq
 ## Native sgRNA Capture and sequencing (NSC-seq).
