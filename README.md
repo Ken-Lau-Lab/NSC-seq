@@ -8,17 +8,17 @@
 ![NSCseq_summary_plot](https://github.com/Ken-Lau-Lab/NSC-seq/assets/54040073/c6fa7ddb-8eff-4592-9430-dfade3b0b5a1)
 
 # Here we optimized a multi-purpose single-cell CRISPR platform for: 
-## Single-cell lineage tracking 
+## 1. Single-cell lineage tracking 
 ### We leveraged a self-mutating CRISPR system (e.g. homing CRISPR barcoded MARC1 mouse) to perform lineage tracking at single-cell resolution from embryo to adult stages. 
 
-## Single-cell temporal recording 
+## 2. Single-cell temporal recording 
 ### Here we developed a new metric called 'mutation density' by utilizing the accumulative mutation pattern of homing CRISPR to record in vivo temporal events (like cellular turnover). 
 
-## Single-cell CRISPR screen
-### Here we use conventional (KO) vector libraries to perform single-cell CRISPR screen (Perturn-seq). 
-#### Note that the single-cell CRISPR screen application is submitted as a separate manuscript.  
+## 3. Single-cell CRISPR screen
+### Using conventional (KO) vector libraries, we performed single-cell CRISPR screen (Perturn-seq). 
+#### Note that the single-cell CRISPR screen application is submitted as a companion manuscript.  
 
-# Clonal analysis of human and murine precancer.  
-## Here we did single-cell multi-omic profiling of human precancers as part of the Human Tumor Atlas Network (HTAN), including 116 scRNA-seq datasets and clonal analysis of 418 human polyps to reveal the clonal composition of human sporadic colorectal precancers. In addition, we validate the polyclonal composition of human precancer using developmentally barcoded mouse mode and NSC-seq platform.  
+## 4. Clonal analysis of human and murine precancer.  
+### Here we perform single-cell multi-omic profiling of human precancers as part of the Human Tumor Atlas Network (HTAN), including 116 scRNA-seq datasets and clonal analysis of 418 human polyps to reveal the clonal composition of human sporadic colorectal precancers. In addition, we validated the polyclonal composition of human precancer using developmentally barcoded mouse mode and NSC-seq platform.  
 
 # Our multimodal framework augments existing single-cell analyses and lays the foundation for in vivo multimodal recording, enabling the tracking of lineage and temporal events during development and tumorigenesis.
