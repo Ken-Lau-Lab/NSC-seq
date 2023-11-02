@@ -4,8 +4,8 @@
 
 # NSC-seq
 ## Native sgRNA Capture and sequencing (NSC-seq).
+![NSC-seq_summary](https://github.com/Ken-Lau-Lab/NSC-seq/assets/54040073/1169f4e0-e009-4450-bfac-69a174ed21c6)
 
-![NSCseq_summary_plot](https://github.com/Ken-Lau-Lab/NSC-seq/assets/54040073/c6fa7ddb-8eff-4592-9430-dfade3b0b5a1)
 
 #### This repository is under development. We will update the data analysis pipeline and code.  
 
