@@ -3,7 +3,6 @@ import pandas as pd
 from ete3 import Tree, TreeStyle, NodeStyle, faces
 import os
 import matplotlib.pyplot as plt
-import copy
 
 
 # read all meta-data
@@ -93,22 +92,6 @@ def add_attributes(
         )
 
 
-# as the last branch should not have mutation adding dummpy parent to all leafs
-def add_parent_to_leafs(tree):
-    if tree.is_leaf():
-        internal_node = Tree()
-        internal_node.name = "added_node"
-        internal_node.id = "-1"
-        tree.up.add_child(internal_node)
-
-        leaf = tree.detach()
-        internal_node.add_child(leaf)
-    else:
-        children = tree.children.copy()
-        for child in children:
-            add_parent_to_leafs(child)
-
-
 def build_mutations_set(tree):
     score = 0
     if tree is not None:
@@ -116,7 +99,7 @@ def build_mutations_set(tree):
             for child in tree.children:
                 score += build_mutations_set(child)
             if len(tree.children) == 1:
-                tree.mutation_all = copy.deepcopy(tree.children[0].mutation_all)
+                raise Exception('Tree has single child while building the tree')
             elif len(tree.children) == 2:
                 for i in range(len(tree.mutation_all)):
                     if (
@@ -153,10 +136,8 @@ def finalize_mutation(tree, is_root=True, parent_mutation=[]):
         else:
             for i in range(len(parent_mutation)):
                 if len(parent_mutation[i]) == 0 and len(tree.mutation_all[i]) != 0:
-                    print(
-                        "------error----- parent has no mutation but child has",
-                        tree.id,
-                        tree.up.id,
+                    raise Exception(
+                        "------error----- parent has no mutation but child has {tree.id}, {tree.up.id}"
                     )
                 if parent_mutation[i][0] in tree.mutation_all[i]:
                     mutation_all.append(parent_mutation[i].copy())
@@ -216,8 +197,6 @@ def cal_score(tree):
 
 
 def remove_non_mutation_branches(tree, is_first=True):
-    # if is_first:
-    #     print('removing ', end=' ')
     if tree.children != []:  # if not leaf
         check_tree_again = False
         for child in tree.children:
@@ -245,6 +224,17 @@ def remove_non_mutation_branches(tree, is_first=True):
                 remove_non_mutation_branches(child, False)
     if is_first:
         print()
+
+
+def remove_single_child(tree):
+    if len(tree.children) == 0:
+        return
+    if len(tree.children) == 1 and (not tree.is_root()):
+        par = tree.up
+        tree.delete()
+        remove_single_child(par)
+    for child in tree.children:
+        remove_single_child(child)
 
 
 # make the normal node as the root
@@ -314,7 +304,6 @@ def same_level_leaf(tree):
             leaf_distance_1(child)
 
     equal_distance(tree)
-    # leaf_distance_1(tree)
 
 
 def style(tree, cell_type_map_color, cwd, is_circular=True, is_same_level_leaf=True):
@@ -337,10 +326,7 @@ def style(tree, cell_type_map_color, cwd, is_circular=True, is_same_level_leaf=T
             nstyle["hz_line_width"] = 10
             node.set_style(nstyle)
         else:
-            # pass
             cell_type_pie(node, cell_type_map_color, cwd)
-        # mutation_diff = TextFace(node.mutation_diff, fgcolor='black',fsize=50)
-        # node.add_face(mutation_diff, column=0, position="branch-top")
     if is_same_level_leaf:
         same_level_leaf(tree)
     return ts
@@ -426,10 +412,6 @@ def cell_type_pie(node, cell_type_map_color, cwd):
     fig, ax = plt.subplots()
     ax.pie(sizes, colors=colors, startangle=90)  # labels=labels,autopct='%1.1f%%',
 
-    # Add count to legend
-    # total = sum(sizes)
-    # legend_labels = [f'({size}, {size/total*100:.1f}%)' for label, size in zip(labels, sizes)]
-    # ax.legend(legend_labels, bbox_to_anchor=(1.05, 1.0), loc='upper left')
     height = 1
     aspect_ratio = fig.get_size_inches()[0] / fig.get_size_inches()[1]
     width = height * aspect_ratio
@@ -468,32 +450,19 @@ def convert_to_non_binary(
         cell_type_map_color_path,
         mutation_map_names_path,
     )
-    add_parent_to_leafs(tree)
     add_attributes(
         tree, cell_map_mutation, cell_map_type, cell_type_map_color, mutation_map_names
     )
-    print("parsimony_score ", build_mutations_set(tree))
+    parsimony_score = build_mutations_set(tree)
+    print("parsimony_score ", parsimony_score)
     finalize_mutation(tree)
-    # print_attributes(tree)
     remove_non_mutation_branches(tree)
+    remove_single_child(tree)
     print("parsimony score cal_score:", cal_score(tree))
     make_normal_as_root(tree)
     add_mutation_diff(tree)
     order_tree(tree)
     is_one_to_zero(tree)
-    # tree_sll = tree.copy(method="deepcopy")
-
-    # ts_sll = visualize_tree.style(
-    #     tree_sll,
-    #     cell_type_map_color,
-    #     cwd + "../output/",
-    #     is_circular=True,
-    #     is_same_level_leaf=True,
-    # )
-    # tree_sll.render(
-    #     cwd + "../output/tree_ete3_sll.pdf", w=10000, units="px", dpi=500, tree_style=ts_sll
-    # )
-
     tree_style = style(
         tree,
         cell_type_map_color,
